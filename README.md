@@ -1,4 +1,4 @@
-# flutter_application_2
+# Flutter_Quran_App_UI_Design
 
 A new Flutter project.
 
